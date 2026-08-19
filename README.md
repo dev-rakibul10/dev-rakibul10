@@ -1,27 +1,166 @@
-<h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
-<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-rakibul10" alt="dev-rakibul10" /></a> </p>
+# 👋 Hey, I'm Rakibul Hasan
 
-- 🌱 I’m currently learning **NEXT.JS**
+### Full Stack Developer • Linux Enthusiast • Open Source Explorer
 
-- 👨‍💻 All of my projects are available at [https://rakibul-hasan-ten.vercel.app](https://rakibul-hasan-ten.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://rakibul-hasan-ten.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-dev--rakibul10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-rakibul10)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhrakibulhassan10@gmail.com)
 
-- 💬 Ask me about **JS TS React.js Express.js LINUX**
+</div>
 
-- 📫 How to reach me **rhrakibulhasan10@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rakibul_hassan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakibul_hasan10" height="30" width="40" /></a>
+## 🧑‍💻 About Me
+
+```bash
+rakibul@arch:~$ whoami
+
+Rakibul Hasan
+Full Stack Developer from Bangladesh
+
+Currently building  → Scorespare ⚽
+Currently learning  → Next.js + DSA
+Interested in      → FOSS, Web Development & Linux
+OS                 → Arch Linux btw 🐧
+```
+
+- 🚀 Building **Scorespare**, a football score tracking application
+- ⚛️ Working mainly with **React, Next.js, JavaScript & TypeScript**
+- 🧠 Currently sharpening my **DSA** skills
+- 🐧 Linux enthusiast
+- 🌱 Always learning, building, breaking, and rebuilding
+- 🤝 Open to collaborating on **FOSS projects**
+
+---
+
+## 🚀 Featured Projects
+
+### ⚽ Scorespare
+
+A football score tracking application focused on live matches, competitions, standings, and fixtures.
+
+**Stack:** React • Node.js • Express • MongoDB • Football APIs
+
+🔗 [Live Demo](https://score-spare.vercel.app/)
+---
+
+### 🌐 3D Portfolio
+
+An interactive developer portfolio built around a 3D experience.
+
+**Stack:** React • Three.js • Tailwind CSS
+
+🔗 [Live Demo](https://rakibul-hasan-ten.vercel.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,bash" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-rakibul10&show_icons=true&locale=en&layout=compact" alt="dev-rakibul10" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-rakibul10&show_icons=true&locale=en" alt="dev-rakibul10" /></p>
+### Backend & Databases
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakibul10&" alt="dev-rakibul10" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
+</p>
 
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dev-rakibul10&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakibul10&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dev-rakibul10&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dev-rakibul10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-rakibul10&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 📌 GitHub Repositories
+
+<div align="center">
+
+<a href="https://github.com/dev-rakibul10/Scorespare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-rakibul10&repo=Scorespare&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/dev-rakibul10">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-rakibul10&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://rakibul-hasan-ten.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/dev-rakibul10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-hasan-3340b342b/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rakibul.hasan.371144)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rakibulhassan_10)
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/rakubul10)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 `sudo pacman -S creativity`
+
+**Build. Break. Learn. Repeat.**
+
+⭐ If you find something useful here, feel free to star a repository.
+
+</div>
