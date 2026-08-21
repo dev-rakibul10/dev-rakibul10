@@ -41,7 +41,7 @@ Fun fact            → I use Arch btw 🐧
 - 🚀 Building **Scorespare**, a football score tracking application
 - ⚛️ Working mainly with **React, Next.js, JavaScript & TypeScript**
 - 🧠 Currently sharpening my **DSA** skills
-- 🐧 Linux enthusiast and proud Arch user
+- 🐧 Linux enthusiast
 - 🌱 Always learning, building, breaking, and rebuilding
 - 🤝 Open to collaborating on **FOSS projects**
 
@@ -63,17 +63,7 @@ An interactive developer portfolio built around a 3D experience.
 
 ---
 
-### 👥 Developer Social Network
-A full-stack social platform for developers with authentication, posts, likes, comments, and following.
-**Stack:** React • Node.js • Express • MongoDB • JWT
 
----
-
-### 🏠 BariBnB
-An Airbnb-inspired full-stack web application.
-**Stack:** Node.js • Express • MongoDB • EJS • Bootstrap
-
----
 
 ## 🛠️ Tech Stack
 
